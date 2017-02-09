@@ -1,6 +1,7 @@
 HubCommander
 =====================
 [![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix/osstracker.svg)]()
+[![Build Status]()]
 
 A user-extendable Slack bot for GitHub organization management. 
 
